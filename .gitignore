@@ -1,0 +1,61 @@
+# =========================
+# Compilação
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Diretórios de build
+# =========================
+/target/
+/build/
+/out/
+
+# =========================
+# Dependências
+# =========================
+/.gradle/
+/mvnw.cmd
+/mvnw
+/.mvn/
+
+# =========================
+# IDEs
+# =========================
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# =========================
+# Configuração de ambiente
+# =========================
+*.env
+*.properties.local
+application-*.yml
+application-*.yaml
