@@ -1,7 +1,8 @@
 # Sales analysis challenge 1
 
-Challenge from Devsuperior course
-
+Challenge from Devsuperior course <br>
+Course: [Devsuperior](https://devsuperior.com.br) <br>
+Instagram: [devsuperior.ig](https://www.instagram.com/devsuperior.ig/)
 ## Problem
 You must read a **.csv** file containing a sales record database, and instantiate in memory a list of objects of type **Sale**, according to the project shown alongside (Note: do not use the primitive types int and double in the attributes and methods! Use the wrapper types Integer and Double, as shown in the project).
 
